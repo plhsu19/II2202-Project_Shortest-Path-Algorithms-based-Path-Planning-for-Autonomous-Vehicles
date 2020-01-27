@@ -6,9 +6,8 @@
 #### Run the simulation by executing following commands within hybrid_A*_and_Dijkstra directory:
 
 ```bash
+# run the simulation
 >>> python3 main.py
-Grade E: 6/6 cases passed.
-Grade C: 6/6 cases passed.
 ```
 
 You may also supply additional flags as so:
