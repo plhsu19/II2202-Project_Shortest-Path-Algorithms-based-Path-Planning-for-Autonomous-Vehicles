@@ -221,7 +221,7 @@ def solution(car):
        else:
            #print("update neighbor nodes!")
            #update neighbor/next nodes
-           update_next_nodes(car, c_node, open_set, closed_set)
+           (car, c_node, open_set, closed_set)
        c += 1
     
     if len(open_set) == 0:
